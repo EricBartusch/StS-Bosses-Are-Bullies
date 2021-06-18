@@ -6,6 +6,7 @@ import com.badlogic.gdx.Gdx;
 import com.evacipated.cardcrawl.mod.stslib.Keyword;
 import com.evacipated.cardcrawl.modthespire.lib.SpireInitializer;
 import com.google.gson.Gson;
+import com.megacrit.cardcrawl.localization.UIStrings;
 import com.megacrit.cardcrawl.unlock.UnlockTracker;
 import java.nio.charset.StandardCharsets;
 
@@ -39,6 +40,7 @@ public class BossesAreBullies implements
 
     @Override
     public void receiveEditStrings() {
+        BaseMod.loadCustomStringsFile(UIStrings.class, modID +  "Resources/localization/eng/UIstrings.json");
     }
 
     @Override

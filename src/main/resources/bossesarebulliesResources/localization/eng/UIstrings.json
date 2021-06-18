@@ -1,0 +1,13 @@
+{
+  "${ModID}:ExtraTimeEaterText": {
+    "TEXT": [
+      "~Ah...~ NL ~..comp~- NL wait.",
+      "Are you forgetting something?",
+      "The green key? What? Screw up your pathing?",
+      "No red key? You had how many campfires and not once did you remember to recall",
+      "Where's the blue key? Relics too good to pass up? Were you banking on an event chest?",
+      "Want me to send you back in time to get it?",
+      "@AHAHAHAHAH@ @FOOLISH@"
+    ]
+  }
+}
