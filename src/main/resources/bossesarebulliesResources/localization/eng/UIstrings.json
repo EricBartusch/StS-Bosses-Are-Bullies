@@ -1,0 +1,49 @@
+{
+  "${ModID}:ExtraTimeEaterText": {
+    "TEXT": [
+      "~Ah...~ NL ~..comp~ - NL wait.",
+      "Are you forgetting something?",
+      "The green key? What? Screw up your pathing?",
+      "No red key? You had how many campfires and not once did you remember to recall?",
+      "Where's the blue key? Relics too good to pass up? Were you banking on an event chest?",
+      "Want me to send you back in time to get it?",
+      "@AHAHAHAHAH@ @FOOLISH@"
+    ]
+  },
+  "${ModID}:ExtraAwakenedOneText": {
+    "TEXT": [
+      "Hey Jeff.",
+      "@Hi@ @Frank!@",
+      "This one doesn't have all their keys.",
+      "No way!",
+      "Oh yeah.",
+      "I really would have expected more.",
+      "Right? What a waste of everyone's time.",
+      "Frank, ~noooooo~",
+      "I'm really bummed you killed Jeff.",
+      "God.",
+      "And for what?",
+      "You don't even get to fight the heart.",
+      "Idiot.",
+      "~.......keys.....~"
+    ]
+  },
+  "${ModID}:ExtraDonuDecaText": {
+    "TEXT": [
+      "Yo Donu.",
+      "Yeah?",
+      "Get a load of this.",
+      "What?",
+      "They're missing a key.",
+      "Woah for real? How do you screw that up?",
+      "No idea.",
+      "Maybe they should learn how to read a map.",
+      "Maybe they shouldn't spam click their chests so fast.",
+      "Maybe they shouldn't get ahead of themselves at the last bonfire.",
+      "Wow, one turn kill, cute.",
+      "Well you know what?",
+      "You don't even get to use that deck against the heart.",
+      "Enjoy your pyrrhic victory you utter nonce."
+    ]
+  }
+}
