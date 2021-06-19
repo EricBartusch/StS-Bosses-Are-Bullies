@@ -1,7 +1,7 @@
 {
   "${ModID}:ExtraTimeEaterText": {
     "TEXT": [
-      "~Ah...~ NL ~..comp~- NL wait.",
+      "~Ah...~ NL ~..comp~ - NL wait.",
       "Are you forgetting something?",
       "The green key? What? Screw up your pathing?",
       "No red key? You had how many campfires and not once did you remember to recall?",
@@ -19,8 +19,8 @@
       "Oh yeah.",
       "I really would have expected more.",
       "Right? What a waste of everyone's time.",
-      "I'm really bummed you killed Frank.",
-      "Jeff, ~noooooo~",
+      "Frank, ~noooooo~",
+      "I'm really bummed you killed Jeff.",
       "God.",
       "And for what?",
       "You don't even get to fight the heart.",

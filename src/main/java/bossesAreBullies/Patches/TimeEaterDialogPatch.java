@@ -31,7 +31,7 @@ public class TimeEaterDialogPatch {
                 AbstractDungeon.actionManager.addToBottom(new TalkAction(__instance, dialog[0], 3.0F, 2.0F));
                 AbstractDungeon.actionManager.addToBottom(new TalkAction(__instance, dialog[1], 2.0F, 2.0F));
                 AbstractDungeon.actionManager.addToBottom(new TalkAction(__instance, dialog[2], 2.0F, 2.0F));
-                AbstractDungeon.actionManager.addToBottom(new TalkAction(__instance, dialog[5], 2.0F, 2.0F));
+                AbstractDungeon.actionManager.addToBottom(new TalkAction(__instance, dialog[5], 2.5F, 2.5F));
                 AbstractDungeon.actionManager.addToBottom(new TalkAction(__instance, dialog[6], 2.0F, 2.0F));
 
 
@@ -48,7 +48,7 @@ public class TimeEaterDialogPatch {
                 AbstractDungeon.actionManager.addToBottom(new TalkAction(__instance, dialog[0], 3.0F, 2.0F));
                 AbstractDungeon.actionManager.addToBottom(new TalkAction(__instance, dialog[1], 2.0F, 2.0F));
                 AbstractDungeon.actionManager.addToBottom(new TalkAction(__instance, dialog[4], 3.5F, 3.5F));
-                AbstractDungeon.actionManager.addToBottom(new TalkAction(__instance, dialog[5], 2.0F, 2.0F));
+                AbstractDungeon.actionManager.addToBottom(new TalkAction(__instance, dialog[5], 2.5F, 2.5F));
                 AbstractDungeon.actionManager.addToBottom(new TalkAction(__instance, dialog[6], 2.0F, 2.0F));
 
 
@@ -65,7 +65,7 @@ public class TimeEaterDialogPatch {
                 AbstractDungeon.actionManager.addToBottom(new TalkAction(__instance, dialog[0], 3.0F, 2.0F));
                 AbstractDungeon.actionManager.addToBottom(new TalkAction(__instance, dialog[1], 2.0F, 2.0F));
                 AbstractDungeon.actionManager.addToBottom(new TalkAction(__instance, dialog[3], 3.0F, 3.0F));
-                AbstractDungeon.actionManager.addToBottom(new TalkAction(__instance, dialog[5], 2.0F, 2.0F));
+                AbstractDungeon.actionManager.addToBottom(new TalkAction(__instance, dialog[5], 2.5F, 2.5F));
                 AbstractDungeon.actionManager.addToBottom(new TalkAction(__instance, dialog[6], 2.0F, 2.0F));
 
                 ___firstTurn[0] = false;

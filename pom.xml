@@ -4,7 +4,7 @@
     <groupId>bossesarebullies</groupId>
 
     <artifactId>BossesAreBullies</artifactId>
-    <version>0.0.1</version>
+    <version>1.0.0</version>
     <name>Bosses Are Bullies</name>
     <description>Adds dialogue to bosses if you are missing keys</description>
 

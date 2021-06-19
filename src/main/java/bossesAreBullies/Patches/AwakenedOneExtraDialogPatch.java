@@ -51,13 +51,13 @@ public class AwakenedOneExtraDialogPatch {
                     AbstractDungeon.actionManager.addToBottom(new TalkAction(frank, dialog[6], 3.0F, 3.0F));
                 } else if (!jeff.isDeadOrEscaped()){
                     AbstractDungeon.actionManager.addToBottom(new TalkAction(jeff, dialog[7], 2.0F, 2.0F));
-                    AbstractDungeon.actionManager.addToBottom(new TalkAction(jeff, dialog[9], 2.0F, 1.0F));
+                    AbstractDungeon.actionManager.addToBottom(new TalkAction(jeff, dialog[9], 2.0F, 1.5F));
                     AbstractDungeon.actionManager.addToBottom(new TalkAction(jeff, dialog[10], 1.5F, 1.5F));
                     AbstractDungeon.actionManager.addToBottom(new TalkAction(jeff, dialog[11], 3.0F, 2.0F));
                     AbstractDungeon.actionManager.addToBottom(new TalkAction(jeff, dialog[12], 1.5F, 1.5F));
                 } else if (!frank.isDeadOrEscaped()) {
                     AbstractDungeon.actionManager.addToBottom(new TalkAction(frank, dialog[8], 2.0F, 2.0F));
-                    AbstractDungeon.actionManager.addToBottom(new TalkAction(frank, dialog[9], 2.0F, 1.0F));
+                    AbstractDungeon.actionManager.addToBottom(new TalkAction(frank, dialog[9], 2.0F, 1.5F));
                     AbstractDungeon.actionManager.addToBottom(new TalkAction(frank, dialog[10], 1.5F, 1.5F));
                     AbstractDungeon.actionManager.addToBottom(new TalkAction(frank, dialog[11], 3.0F, 2.0F));
                     AbstractDungeon.actionManager.addToBottom(new TalkAction(frank, dialog[12], 1.5F, 1.5F));
